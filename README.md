@@ -1,16 +1,14 @@
-## Hi there 👋
+boas vindas ao meu perfil 💙
 
-<!--
-**geh-olie/geh-olie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é geovanna oliveira
+- estou estudadando na alura
+- estou em desenvolvimento na linguagem javascript
+- utilizo este espaço para organazição e compartilhamento dos meu projetos desenvolvidos
 
-Here are some ideas to get you started:
+ ## Para entrar em contato comigo 📫
+ gehgeovanna564@gamil.com
+ 
+ @geh.olie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://tenor.com/pt-BR/view/mickey-cococ-cute-blow-kiss-hearts-gif-17628877)
